@@ -1,0 +1,3 @@
+1. Ans FF000000
+2. Ans 2 milliamperes
+3. Ans usb_modeswitch.conf   1523 bytes   222 files
